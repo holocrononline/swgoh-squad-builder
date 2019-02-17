@@ -1,0 +1,22 @@
+{
+    "timeZone": "Etc/GMT",
+    "dependencies": {
+        "libraries": [{
+            "userSymbol": "Assert",
+            "libraryId": "1R-rxUHuQU0ez95FlZz9fxqifbYFszHnukqzv_3Uk5zM3eG4eRBrh_E1M",
+            "version": "16"
+          }, {
+            "userSymbol": "BBLog",
+            "libraryId": "1kzzYZhgODZluRmjsjh7t3O-ftmFAF9h1jaRHU0rOdf9irF0VUiJW33Kt",
+            "version": "11"
+          }, {
+            "userSymbol": "SWGOHCoreFunctions",
+            "libraryId": "1hXDuESvDXFcqqQxPp4T5Jbus3uRsNE1nHXVpdLutPQH2MPIYvOZgeo39",
+            "version": "2"
+          }]
+    },
+    "exceptionLogging": "STACKDRIVER"
+  }
+  
+
+

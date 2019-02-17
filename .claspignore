@@ -1,0 +1,6 @@
+**/**
+!*.md
+!src/appsscript.json
+!src/*.ts
+!src/*.html
+README.md
